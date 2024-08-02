@@ -73,8 +73,10 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/JaivardhanPadhy/Modern-Portfolio.git
+```
+**Navigate into the cloned repository**
+```bash
 cd Modern-Portfolio
-
 ```
 
 **Installation**
@@ -674,7 +676,7 @@ I welcome contributions to the Modern Portfolio Website! If you have any ideas, 
 2.Make your changes.
    - Commit your changes 
        ```  bash
-             (git commit -m 'Add some feature')
+      (git commit -m 'Add some feature')
        ```
 ## <a name="contact"> Contact</a>
 For any questions or inquiries, please contact me at theofficialjaivp@gmail.com.
